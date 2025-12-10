@@ -181,6 +181,3 @@ jobs:
         run: echo "Déploiement de la solution"
 
  
-          cmake ..
-          make
-         2 ./src/calculator car 5*/3
